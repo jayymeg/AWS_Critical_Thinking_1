@@ -16,6 +16,8 @@ As a senior DevOps engineer, you are tasked with designing a solution to ensure 
 
 1. **Create an S3 bucket:**
    - Choose the region closest to users in **India** and **London** (e.g., *Europe (Frankfurt) `eu-central-1`*).
+
+![my image](https://github.com/jayymeg/AWS_Critical_Thinking_1/blob/master/SCENARIO_1%20IMAGES/step%202%20(create%20S3%20bucket).JPG)
    
 2. **Upload the website files:**
    - Upload the `index.html` file to the S3 bucket.
