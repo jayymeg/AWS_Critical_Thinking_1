@@ -19,14 +19,23 @@ As a senior DevOps engineer, you are tasked with designing a solution to ensure 
 
 ![my image](https://github.com/jayymeg/AWS_Critical_Thinking_1/blob/master/SCENARIO_1%20IMAGES/step%202%20(create%20S3%20bucket).JPG)
    
+
+![my image](https://github.com/jayymeg/AWS_Critical_Thinking_1/blob/master/SCENARIO_1%20IMAGES/step%202(d).JPG)
+
 2. **Upload the website files:**
    - Upload the `index.html` file to the S3 bucket.
+
+![my image](https://github.com/jayymeg/AWS_Critical_Thinking_1/blob/master/SCENARIO_1%20IMAGES/step%202(e).JPG)
    
 3. **Enable static website hosting:**
    - Configure the bucket to host a static website.
+
+![my image](https://github.com/jayymeg/AWS_Critical_Thinking_1/blob/master/SCENARIO_1%20IMAGES/step%202(f).JPG)
    
 4. **Make the bucket public:**
    - Ensure the bucket permissions allow public access to the website.
+
+![my image](https://github.com/jayymeg/AWS_Critical_Thinking_1/blob/master/SCENARIO_1%20IMAGES/step%202(g).JPG)
 
 ---
 
