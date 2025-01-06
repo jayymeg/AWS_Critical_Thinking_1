@@ -10,6 +10,17 @@ As a senior DevOps engineer, you are tasked with designing a solution to ensure 
 
 - Create a basic HTML file for your static website. (`index.html`)
 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to My Website</title>
+</head>
+<body>
+    <h1>Hello from AWS CloudFront!</h1>
+    <p>This is a globally optimized website.</p>
+</body>
+</html>
 ---
 
 ### STEP 2: Host the Static Website on Amazon S3
