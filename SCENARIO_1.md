@@ -48,6 +48,8 @@ As a senior DevOps engineer, you are tasked with designing a solution to ensure 
    - CloudFront automatically uses edge locations closest to users for low latency.
    - Users in **India** will use nearby edge locations, while those in **London** will use European edge locations.
 
+![my image](https://github.com/jayymeg/AWS_Critical_Thinking_1/blob/master/SCENARIO_1%20IMAGES/step%203.JPG)
+
 ---
 
 ### STEP 4: Configure DNS with Route 53
@@ -55,9 +57,13 @@ As a senior DevOps engineer, you are tasked with designing a solution to ensure 
 1. **Create a Hosted Zone:**
    - Navigate to Route 53 and create a hosted zone for your domain.
 
+![my image](https://github.com/jayymeg/AWS_Critical_Thinking_1/blob/master/SCENARIO_1%20IMAGES/step%204.JPG)
+
 2. **Add DNS Records:**
    - Create a **CNAME Record** pointing to the CloudFront domain name.
    - Use **Latency Routing Policy** to optimize the user experience for **India** and **London**.
+
+![my image](https://github.com/jayymeg/AWS_Critical_Thinking_1/blob/master/SCENARIO_1%20IMAGES/step%204(a).JPG)
 
 ---
 
@@ -65,6 +71,7 @@ As a senior DevOps engineer, you are tasked with designing a solution to ensure 
 
 - Use **Amazon CloudWatch** to monitor latency and request patterns.
 
+![my image](https://github.com/jayymeg/AWS_Critical_Thinking_1/blob/master/SCENARIO_1%20IMAGES/step%205.JPG)
 ---
 
 ## BENEFITS OF THIS SERVERLESS SOLUTION
